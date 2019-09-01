@@ -1,0 +1,6 @@
+;; Zone dump (Knot DNS 2.8.3)
+cb.         	60	SOA	ns.cb. hostmaster.cb. 2019090101 60 60 691200 30
+ns.cb.      	30	A	192.168.0.2
+test.cb.	30	TXT	"this is a test"
+;; Written 4 records
+;; Time 2019-09-01 12:54:17 UTC
